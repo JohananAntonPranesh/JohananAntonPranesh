@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @JohananAntonPranesh
-I’m interested in research papers, projects consequently the tools which helps me get better at them. I’m always learning something, you can say it's my drug of choice; currently I'm doing bachelors in mathematics and learning R, python,tableau.
- I am looking forward to the future in which I'm a researcher. I’m looking to collaborate on anything of consumer interest financially speaking, economics and human dynamics.
-You can reach me by contacting me through mail johanananton@protonmail.com
-<!---
-JohananAntonPranesh/JohananAntonPranesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a graduate student in Financial Engineering at Lehigh University with a passion for machine learning, optimization, factor models, and alternative data. My work spans multiple projects, and I have experience in the front office of a hedge fund, focusing on data science and quantitative research.
+
+I have a particular interest in variance reduction methods like SVRG and the SARAH model, as well as Rust programming for high-performance computing. Beyond finance and technology, I enjoy running for charities, playing golf and squash, painting, and writing essays—one of which was published and earned me a human rights award.
+
+I am always exploring new research opportunities in Quant Finance, machine learning, and optimization. Feel free to connect with me!
