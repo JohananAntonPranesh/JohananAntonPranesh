@@ -4,8 +4,9 @@ I have a particular interest in variance reduction methods like SVRG and the SAR
 
 I am always exploring new research opportunities in Quant Finance, machine learning, and optimization. Feel free to connect with me!
 ## Git Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohananAntonPranesh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ![](https://github-readme-stats.vercel.app/api?username=JohananAntonPranesh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=JohananAntonPranesh&theme=transparent&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JohananAntonPranesh&theme=transparent&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohananAntonPranesh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
